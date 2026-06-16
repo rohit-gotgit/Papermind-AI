@@ -1,6 +1,29 @@
-# PaperMind AI — Research Intelligence Platform
+<div align="center">
 
-A production-ready AI research assistant that lets you upload research papers (PDFs) and interact with them through a citation-aware RAG system.
+# Papermind AI
+
+Research Intelligence Powered by Retrieval-Augmented Generation.
+
+<br>
+
+<img src="https://img.shields.io/badge/RAG-Citation%20Aware-success" />
+<img src="https://img.shields.io/badge/FastAPI-Backend-009688?logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-App%20Router-black?logo=nextdotjs" />
+<img src="https://img.shields.io/badge/PostgreSQL-Data%20Layer-336791?logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/FAISS-Vector%20Search-orange" />
+<img src="https://img.shields.io/badge/LLM-Powered-blueviolet" />
+
+</div>
+
+---
+
+## Overview
+
+PaperMind AI is an AI-powered research assistant that enables users to upload, analyze, search, and interact with academic papers through a citation-aware Retrieval-Augmented Generation (RAG) pipeline. The platform combines semantic vector search, large language models, and document intelligence techniques to generate context-grounded responses backed by source citations.
+
+Built with FastAPI, Next.js, PostgreSQL, FAISS, and modern embedding models, the system supports paper summarization, semantic discovery, comparative analysis, and conversational question answering through a scalable end-to-end research workflow.
+
+
 
 ## Features
 
@@ -202,3 +225,10 @@ Query
    ↓ LLM generation with citation-aware prompt
    ↓ Return answer + CitationSource[] with page numbers
 ```
+
+---
+
+## Author
+
+**Rohit Kumar**  
+Software Engineer • AI Enthusiast • Full-Stack Developer
