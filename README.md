@@ -3,7 +3,6 @@
 # Papermind AI
 
 Research Intelligence Powered by Retrieval-Augmented Generation.
-
 <br>
 
 <img src="https://img.shields.io/badge/RAG-Citation%20Aware-success" />
